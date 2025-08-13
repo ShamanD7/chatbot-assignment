@@ -1,0 +1,1 @@
+Frontend skeleton. Replace with UI, Tailwind config, and assets. See README.md for deployment.
